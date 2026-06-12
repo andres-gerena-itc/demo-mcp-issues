@@ -1,4 +1,4 @@
-# 🚀 Dashboard Inteligente de Ingeniería: Orquestación con Model Context Protocol (MCP)
+# Dashboard Inteligente de Ingeniería: Orquestación con Model Context Protocol (MCP)
 
 **Proyecto extraclase para la asignatura de Ingeniería de Software II** **Escuela Tecnológica Instituto Técnico Central (ETITC)** **Autores:** Andrés Felipe Gerena Contreras  - Fabián Estevan Suarez - Laura Camila Mosquera
 
